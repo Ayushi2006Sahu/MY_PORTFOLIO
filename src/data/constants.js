@@ -28,11 +28,11 @@ export const skills = [
       //   image:
       //     "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       // },
-      // {
-      //   name: "Next Js",
-      //   image:
-      //     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-      // },
+      {
+        name: "Next Js",
+        image:
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+      },
       // {
       //   name: "Angular Js",
       //   image:
@@ -85,11 +85,11 @@ export const skills = [
       //   name: "Graph Ql",
       //   image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
       // },
-      // {
-      //   name: "Python",
-      //   image:
-      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      // },
+      {
+        name: "Python",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      },
       // {
       //   name: "Flask",
       //   image:
@@ -114,10 +114,10 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
-      // {
-      //   name: "Firebase",
-      //   image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-      // },
+      {
+        name: "Firebase",
+        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      },
     ],
   },
   // {
@@ -365,7 +365,7 @@ export const education = [
     img: "https://firebasestorage.googleapis.com/v0/b/image-509b4.appspot.com/o/mmmutlogo.jpeg?alt=media&token=ebe5bb99-d436-456e-989e-9d391c026279",
     school: "Madan Mohan Malviya University Of Technology, Gorakhpur",
     date: "Sep 2023 - Sep 2027",
-    grade: "8.81 CGPA",
+    grade: "8.99 CGPA",
     desc: "I am pursuing my BTech in Information Techology.",
     degree: "Bachelor Of Technology ,Information Technology",
   },
@@ -487,32 +487,32 @@ export const projects = [
     github: "https://ayushi2006sahu.github.io/Website/Currency.html",
     webapp: "https://ayushi2006sahu.github.io/Website/Currency.html",
   },
-  // {
-  //   id: 10,
-  //   title: "Job Finding App",
-  //   date: "Jun 2023 - Jul 2023",
-  //   description:
-  //     "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-  //   tags: ["React Native", "JavaScript", "Axios"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Job-finder-App",
-  //   webapp: "https://github.com/rishavchanda/Job-finder-App",
-  // },
-  // {
-  //   id: 4,
-  //   title: "Whatsapp Clone",
-  //   date: "Jul 2021",
-  //   description:
-  //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-  //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-  //   webapp: "https://whatsapp-clone-rishav.web.app",
-  // },
+  {
+    id: 10,
+    title: "Mock_AI_INTERVIEW",
+    date: "Mar 2025 - Apr 2025",
+    description:
+      "This application is designed to help developers practice technical interviews with AI-Generated questions and real-time voice response recordings",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/image-a6bb1.appspot.com/o/mock_ak.jpg?alt=media&token=a4502969-edee-463c-ba93-97d33b7df8f4",
+    tags: ["Next Js","Node Js","Post","Postgresql",""],
+    category: "web app",
+    github: "https://github.com/Ayushi2006Sahu/MOCK_AI_INTERVIEW",
+    webapp: "https://github.com/Ayushi2006Sahu/MOCK_AI_INTERVIEW",
+  },
+  {
+    id: 4,
+    title: "Disney Clone",
+    date: "Jan 2025",
+    description:
+      "A feature-rich Disney+ clone for seamless streaming of movies and TV shows with a sleek UI.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/image-a6bb1.appspot.com/o/Screenshot%202025-04-06%20095104.png?alt=media&token=3fe757cf-9bfa-47bd-b8b4-2dcf2c491556",
+    tags: ["React Js", "Vercel", "JavaScript", "Node JS"],
+    category: "web app",
+    github: "https://github.com/Ayushi2006Sahu/Disney_p",
+    webapp: "https://github.com/Ayushi2006Sahu/Disney_p",
+  },
   {
     id: 5,
     title: "Todo Web App",
@@ -539,32 +539,32 @@ export const projects = [
     github: "https://github.com/Ayushi2006Sahu/Amazon_Clone.git",
     webapp: "https://github.com/Ayushi2006Sahu/Amazon_Clone.git",
   },
-  // {
-  //   id: 7,
-  //   title: "Quiz App",
-  //   date: "Dec 2020 - Jan 2021",
-  //   description:
-  //     "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-  //   image:
-  //     "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-  //   tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Quiz-Earn",
-  //   webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  // },
-  // {
-  //   id: 8,
-  //   title: "Face Recognition",
-  //   date: "Jan 2021",
-  //   description:
-  //     "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-  //   image:
-  //     "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  //   webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  // },
+  {
+    id: 7,
+    title: "Bitlinks_URL_Shortner",
+    date: "Feb 2025  - Mar 2025",
+    description:
+      " This tool  converts long web addresses into shorter, more manageable links.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/image-a6bb1.appspot.com/o/Screenshot%202025-04-06%20093430.png?alt=media&token=55357483-d2a5-4563-9719-85a3b0253397",
+    tags: ["HTML", "CSS", "Javascript"],
+    category: "web app",
+    github: "https://github.com/Ayushi2006Sahu/Bitlinks-URL_Shortner",
+    webapp: "https://github.com/Ayushi2006Sahu/Bitlinks-URL_Shortner",
+  },
+  {
+    id: 8,
+    title: "Shikayat se Samadhan tak",
+    date: "Feb 2025",
+    description:
+      "A smart grievances redressal system enabling users to raise, track, and resolve complaints efficiently.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/image-a6bb1.appspot.com/o/Screenshot%202025-04-06%20094428.png?alt=media&token=b80bec8f-77af-46f7-8272-7e11b700b540",
+    tags: ["HTML", "CSS", "Javascript", "Next Js", "NodeJs"],
+    category: "machine learning",
+    github: "https://github.com/Ayushi2006Sahu/Saathi-Grievance-Tracke",
+    webapp: "https://github.com/Ayushi2006Sahu/Saathi-Grievance-Tracke",
+  },
 ];
 
 export const TimeLineData = [
@@ -573,4 +573,5 @@ export const TimeLineData = [
   { year: "Jan 2024", text: "Participated in entrepreneurship development cell" },
   { year: "March  2024", text: "Frontend Developer" },
   { year: "Oct 2024", text: "Participated in HacktoberFest 2024" },
+  { year: "Jan 2025", text: "Participated in Hackofiesta 2025" },
 ];
