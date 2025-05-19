@@ -296,7 +296,7 @@ export const experiences = [
     role: "Mentee",
     company: "Codess.Cafe",
     date: "Sep2024-Present",
-    desc: "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, created High level Design and Figma design. Built Backend with GraphQL and Node JS and connected with MongoDb - Reducing API calls by 20%. Dockerized and automated with Kubernetes & Jenkins CI/CD deployed in AWS-EC2 added Prometheus & Grafana for monitoring.",
+    desc: "Pro-bono mentorship for collegiate women in tech, helping them unlock their true potential",
     skills: [
       "AI",
       "Machine Learning",
