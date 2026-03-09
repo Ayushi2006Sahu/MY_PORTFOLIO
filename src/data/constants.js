@@ -45,12 +45,12 @@ export const skills = [
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOEvg8jjrFmYxFG4SuVmSm-JwPtuIdLk_kw&s",
       },
       {
         name: "JavaScript",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "data:image/png;base64,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",
       },
       {
         name: "Bootstrap",
@@ -197,21 +197,21 @@ export const skills = [
   {
     title: "Machine Learning",
     skills: [
-      // {
-      //   name: "Python",
-      //   image:
-      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      // },
-      // {
-      //   name: "Tenserflow",
-      //   image:
-      //     "https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png",
-      // },
-      // {
-      //   name: "Keras",
-      //   image:
-      //     "https://miro.medium.com/v2/resize:fit:600/1*DKu_54iqz6C-p6ndo7rO3g.png",
-      // },
+      {
+        name: "Python",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      },
+      {
+        name: "Tenserflow",
+        image:
+          "https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png",
+      },
+      {
+        name: "Keras",
+        image:
+          "https://miro.medium.com/v2/resize:fit:600/1*DKu_54iqz6C-p6ndo7rO3g.png",
+      },
       {
         name: "Jupyter",
         image:
@@ -292,7 +292,7 @@ export const experiences = [
   // },
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/C4D0BAQHSlNCmwwBsyw/company-logo_200_200/company-logo_200_200/0/1662096135243/codesscafe_logo?e=1753315200&v=beta&t=GneVENfKUG2z1h5n-nJoJAxznlCsJDl8iR9fCx1Lmv8",
+    img: "https://avatars.githubusercontent.com/u/87316538?s=280&v=4",
     role: "Mentee",
     company: "Codess.Cafe",
     date: "Sep2024-Present",
